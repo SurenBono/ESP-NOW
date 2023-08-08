@@ -103,7 +103,7 @@ void sequences(){
 P.setTextAlignment(PA_LEFT);
 switch (i) 
   {
-	   case 1 :P.print(t);delay(500);P.print(t1);delay(500);break;  case 2 :P.print(t);delay(500);P.print(t1);delay(500);break;  
+     case 1 :P.print(t);delay(500);P.print(t1);delay(500);break;  case 2 :P.print(t);delay(500);P.print(t1);delay(500);break;  
      case 3 :P.print(t);delay(500);P.print(t1);delay(500);break;  case 4 :P.print(t);delay(500);P.print(t1);delay(500);break;  
      case 5 :P.print(t);delay(500);P.print(t1);delay(500);break;  case 6 :P.print(t);delay(500);P.print(t1);delay(500);break;
      case 7 :P.print(t);delay(500);P.print(t1);delay(500);break;  case 8 :P.print(t);delay(500);P.print(t1);delay(500);break;  
