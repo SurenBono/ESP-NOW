@@ -73,7 +73,7 @@ memcpy(&myMessage, incomngData, sizeof(myMessage));
       Time_b[1]  = myMessage.m  / 10 +'0';
       Time_b[2]  = myMessage.m  % 10 +'0';  
       Time_b[4]  = cs           / 10 +'0';
-	    Time_b[5]  = cs           % 10 +'0';  
+	     Time_b[5]  = cs           % 10 +'0';  
 	  
 	  }ps=cs;
 	  
